@@ -34,7 +34,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 - Automated customer qualification and order processing
 - Scalable architecture supporting 1000+ monthly interactions
 
-**[View Workflow Architecture](/blob/images/devtreats-architecture.png)**
+**[View Workflow Architecture](https://github.com/jairus-arcangel-dev/jairus-arcangel-dev.github.io/blob/32814e23c58c68863e1116746be794cb10217ccb/devtreats-architecture.png)** 
 
 ---
 
