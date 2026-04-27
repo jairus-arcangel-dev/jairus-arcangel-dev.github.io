@@ -91,7 +91,7 @@ messages              & validation      natural language    based on customer   
 
 ##  Professional Experience
 
-### Automation Engineering Skills Development | Self-Directed | 2024-Present
+### Automation Engineering Skills Development | Self-Directed | Jan 2026 - Present
 **Rapid skill acquisition in workflow automation:**
 - **n8n Mastery:** Built production-ready AI customer service automation handling 100+ daily inquiries
 - **API Integration:** Implemented multi-platform integrations (Facebook Messenger, Google Sheets, SMS/Email)
@@ -115,8 +115,8 @@ messages              & validation      natural language    based on customer   
 
 ##  Education & Continuous Learning
 
-**Practical Skill Development** | 2024-Present
-- **n8n Workflow Automation:** Built production-ready AI customer service system in 3 weeks
+**Practical Skill Development** | Jan 2026 - Present
+- **n8n Workflow Automation:** Built production-ready AI customer service system in 2 weeks
 - **API Integration:** Self-taught multi-platform integration and data architecture
 - **Process Automation:** Rapid implementation of automation solutions for real business problems
 
