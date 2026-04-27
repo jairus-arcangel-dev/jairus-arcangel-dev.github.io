@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
 # Jairus Arcangel - Automation Engineer Portfolio
 
 📍 Bulacan, Philippines | 📧 jairusmarzzo@gmail.com | 🔗 https://www.linkedin.com/in/jairusarcangel
