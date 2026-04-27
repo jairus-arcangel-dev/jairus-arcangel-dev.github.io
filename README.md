@@ -121,8 +121,8 @@ messages              & validation      natural language    based on customer   
 - **Process Automation:** Rapid implementation of automation solutions for real business problems
 
 **Formal Education**
-- **Bachelor of Science in Information Technology** (Undergraduate) | AMA Online University (2020–2022)
-- **Fundamentals in Culinary Arts** | International School for Culinary Arts and Hotel Management (2022–2023)
+- **Bachelor of Science in Information Technology** (Undergraduate) - AMA Online University (2020–2022)
+- **Fundamentals in Culinary Arts** - International School for Culinary Arts and Hotel Management (2022–2023)
 
 ---
 
