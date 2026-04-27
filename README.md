@@ -18,9 +18,13 @@
 **Technical Stack:** n8n, Google Gemini AI, Facebook Graph API, Google Sheets API, JavaScript
 
 **Architecture Overview:**  
-[Facebook Messenger] → [n8n Webhook] → [AI Intent Analysis] → [Dynamic Routing] → [Multi-Platform Actions]  
-↓ ↓ ↓ ↓ ↓  
-Real-time customer JSON processing Google Gemini Conditional logic Google Sheets, messages & validation natural language based on customer Email, SMS responses → Error handling processing intent & order stage 
+```plaintext
+[Facebook Messenger] → [n8n Webhook] → [AI Intent Analysis] → [Dynamic Routing] → [Multi-Platform Actions]
+       ↓                    ↓               ↓                       ↓                 ↓
+Real-time customer     JSON processing  Google Gemini        Conditional logic    Google Sheets,
+messages              & validation      natural language    based on customer    Email, SMS responses
+                      → Error handling  processing          intent & order stage
+```
 
 **Key Technical Achievements:**
 - **Real-time Processing:** Built webhook-based system handling 100+ daily customer inquiries
