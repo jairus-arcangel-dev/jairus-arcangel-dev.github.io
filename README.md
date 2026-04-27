@@ -54,7 +54,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 - Automated performance tracking and delivery logs  
 - Error handling for failed API calls with retry logic  
 
-**[View Scheduling Configuration](./images/daily-automation.png)**
+**[View Scheduling Configuration](https://github.com/jairus-arcangel-dev/jairus-arcangel-dev.github.io/blob/9cc849ecd4c536d02d125f9b6462b9647e3c055b/daily-automation.png)**
 
 ---
 
