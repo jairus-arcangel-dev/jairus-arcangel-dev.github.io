@@ -2,7 +2,7 @@
 
 📍 Bulacan, Philippines | 📧 jairusmarzzo@gmail.com | 🔗 https://www.linkedin.com/in/jairusarcangel
 
-## 🚀 Technical Expertise
+##  Technical Expertise
 
 **Process Automation** | **Data Systems Architecture** | **API Integration** | **Operational Intelligence**
 
@@ -10,9 +10,9 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🤖 Project 1: Devilicious Treats - AI Customer Service Automation
+###  Project 1: Devilicious Treats - AI Customer Service Automation
 **Full n8n Implementation | Production Workflow**
 
 **Technical Stack:** n8n, Google Gemini AI, Facebook Graph API, Google Sheets API, JavaScript
@@ -38,7 +38,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 
 ---
 
-### ⏰ Project 2: Daily Marketing Automation System  
+###  Project 2: Daily Marketing Automation System  
 **Scheduled n8n Workflow | Batch Processing**
 
 **Technical Stack:** n8n, Facebook Graph API, Scheduled Triggers, Dynamic Content Generation
@@ -58,7 +58,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 
 ---
 
-### ⚡ Platform Analysis: Zapier Concept Validation
+###  Platform Analysis: Zapier Concept Validation
 **Comparative Architecture Study**
 
 **Research Focus:** Understanding when to use low-code vs custom solutions
@@ -74,7 +74,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 **Workflow Automation:** n8n, Zapier, Google Apps Script  
 **Data Systems:** Advanced Google Sheets (Pivot Tables, Dashboards, VLOOKUP, Complex Formulas)  
@@ -85,7 +85,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 
 ---
 
-## 📈 Professional Experience
+##  Professional Experience
 
 ### Automation Engineering Skills Development | Self-Directed | 2024-Present
 **Rapid skill acquisition in workflow automation:**
@@ -109,7 +109,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 
 ---
 
-## 🎓 Education & Continuous Learning
+##  Education & Continuous Learning
 
 **Practical Skill Development** | 2024-Present
 - **n8n Workflow Automation:** Built production-ready AI customer service system in 3 weeks
@@ -122,7 +122,7 @@ Real-time customer JSON processing Google Gemini Conditional logic Google Sheets
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 - **Email:** jairusmarzzo@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/jairusarcangel
 - **Upwork:** https://www.upwork.com/freelancers/~016cc11c3af473a48e
